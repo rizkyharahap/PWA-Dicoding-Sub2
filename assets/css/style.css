@@ -1,0 +1,41 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+}
+.brand-logo {
+    width: 105px;
+    text-align: center;
+}
+.brand-logo img {
+    margin-top: 10px;
+    height: 40px;
+}
+.sidenav {
+    padding-top: 30px;
+}
+.wrapper {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.team-logos {
+    display:  flex;
+    align-items: center;
+}
+#team-info {
+    text-align: center;
+}
+.card .card-image img {
+    margin: auto;
+    max-width: 200px;
+}
+.saved-team-card-item {
+    text-align: center;
+    align-items: center;
+}
+.saved-team-img-wrapper {
+    height:200px;
+    padding: 20px;
+}
+.saved-team-img-wrapper img {
+    height: 100%;
+}
